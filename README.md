@@ -1,4 +1,4 @@
-# EasyAnimator
+# Easy Animator
 Animation of various shapes implemented using the mvc framework. JSwing used for the front-end. 
 
 The scope of this assignment was to implement the MVC framework that divided
